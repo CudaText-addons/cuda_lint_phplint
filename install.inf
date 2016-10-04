@@ -1,0 +1,5 @@
+[info]
+title=Linter for PHP, using phplint
+desc=Linter for CudaLint, adds support for PHP, using phplint
+type=cudatext-plugin
+subdir=cuda_lint_phplint
